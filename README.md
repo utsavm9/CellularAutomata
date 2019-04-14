@@ -15,7 +15,7 @@ This program can also simulate Wolfram's Elementary Cellular Automaton. The scre
 ## Getting started 
 This program is designed to run on TurboC++ compiler and has been tested to run successfully on compiler version 3.2. Download the Turbo C++ compiler from [its website.](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/)
 
-Then, move the file `AUTOMATON.CPP` inside the `bin` folder located in the Turbo C++ directory, which is by default in `C:` for Windows users. The program can then be opened and run inside the Turbo C++ IDE.
+Then, move the file `AUTOMATA.CPP` inside the `bin` folder located in the Turbo C++ directory, which is by default in `C:` for Windows users. The program can then be opened and run inside the Turbo C++ IDE.
 
 ## Implementation
 The algorithm implemented to achieve animation re-prints the entire screen for each generation. Some of the challenges we overcome in this project are:
